@@ -17,7 +17,7 @@ server.patch('/engine', (req, res) => {
         return res.status(400).send('Wrong parameters: "id" should be any positive number, "status" should be "started", "stopped" or "drive"');
     }
 
-    if (!db.garage.find(car => car.id === +id)) {
+    if (!data.garage.find(car => car.id === +id)) {
         return res.status(404).send('Car with such id was not found in the garage.')
     }
 

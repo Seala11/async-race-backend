@@ -11,27 +11,27 @@
   },
   {
     "name": "Mersedes",
-    "color": "#6c779f",
+    "color": "#f4acb7",
     "id": 3
   },
   {
     "name": "Ford",
-    "color": "#ef3c40",
+    "color": "#ff70a6",
     "id": 4
   },
   {
     "name": "Opel",
-    "color": "#ef3c48",
+    "color": "#ff9770",
     "id": 5
   },
   {
     "name": "Porsche",
-    "color": "#ef7a40",
+    "color": "#ffd670",
     "id": 6
   },
   {
     "name": "Honda",
-    "color": "#ef0c40",
+    "color": "#e9ff70",
     "id": 7
   }
 ]
