@@ -18,5 +18,20 @@
     "name": "Ford",
     "color": "#ef3c40",
     "id": 4
+  },
+  {
+    "name": "Opel",
+    "color": "#ef3c48",
+    "id": 5
+  },
+  {
+    "name": "Porsche",
+    "color": "#ef7a40",
+    "id": 6
+  },
+  {
+    "name": "Honda",
+    "color": "#ef0c40",
+    "id": 7
   }
 ]
