@@ -6,6 +6,8 @@ const router = jsonServer.router(data);
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3000;
 
+const state = { velocity: {}, blocked: {} };
+
 server.use(middlewares);
 
 server.patch('/engine', (req, res) => {
